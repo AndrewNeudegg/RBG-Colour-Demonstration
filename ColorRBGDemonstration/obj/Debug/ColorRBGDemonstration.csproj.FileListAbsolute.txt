@@ -1,0 +1,9 @@
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\ColorRBGDemonstration\ColorRBGDemonstration\bin\Debug\DecentColour_Mach2.exe.config
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\ColorRBGDemonstration\ColorRBGDemonstration\bin\Debug\DecentColour_Mach2.exe
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\ColorRBGDemonstration\ColorRBGDemonstration\bin\Debug\DecentColour_Mach2.pdb
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\ColorRBGDemonstration\ColorRBGDemonstration\obj\Debug\ColorRBGDemonstration.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\ColorRBGDemonstration\ColorRBGDemonstration\obj\Debug\DecentColour_Mach2.Form1.resources
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\ColorRBGDemonstration\ColorRBGDemonstration\obj\Debug\DecentColour_Mach2.Properties.Resources.resources
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\ColorRBGDemonstration\ColorRBGDemonstration\obj\Debug\ColorRBGDemonstration.csproj.GenerateResource.Cache
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\ColorRBGDemonstration\ColorRBGDemonstration\obj\Debug\DecentColour_Mach2.exe
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\ColorRBGDemonstration\ColorRBGDemonstration\obj\Debug\DecentColour_Mach2.pdb

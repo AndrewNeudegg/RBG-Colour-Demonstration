@@ -1,0 +1,9 @@
+c:\users\andy\documents\visual studio 2013\Projects\DecentColour_Mach2\DecentColour_Mach2\bin\Debug\DecentColour_Mach2.exe.config
+c:\users\andy\documents\visual studio 2013\Projects\DecentColour_Mach2\DecentColour_Mach2\bin\Debug\DecentColour_Mach2.exe
+c:\users\andy\documents\visual studio 2013\Projects\DecentColour_Mach2\DecentColour_Mach2\bin\Debug\DecentColour_Mach2.pdb
+c:\users\andy\documents\visual studio 2013\Projects\DecentColour_Mach2\DecentColour_Mach2\obj\Debug\DecentColour_Mach2.csprojResolveAssemblyReference.cache
+c:\users\andy\documents\visual studio 2013\Projects\DecentColour_Mach2\DecentColour_Mach2\obj\Debug\DecentColour_Mach2.Form1.resources
+c:\users\andy\documents\visual studio 2013\Projects\DecentColour_Mach2\DecentColour_Mach2\obj\Debug\DecentColour_Mach2.Properties.Resources.resources
+c:\users\andy\documents\visual studio 2013\Projects\DecentColour_Mach2\DecentColour_Mach2\obj\Debug\DecentColour_Mach2.csproj.GenerateResource.Cache
+c:\users\andy\documents\visual studio 2013\Projects\DecentColour_Mach2\DecentColour_Mach2\obj\Debug\DecentColour_Mach2.exe
+c:\users\andy\documents\visual studio 2013\Projects\DecentColour_Mach2\DecentColour_Mach2\obj\Debug\DecentColour_Mach2.pdb
